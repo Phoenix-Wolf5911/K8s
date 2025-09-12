@@ -18,12 +18,13 @@ If Docker is not installed yet:
 ```bash
 curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
+```
 Add your user to the docker group:
 
-bash
-Copy code
+```bash
 sudo usermod -aG docker $USER
 newgrp docker
+```
 Verify Docker works:
 
 bash
