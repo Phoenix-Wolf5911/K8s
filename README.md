@@ -2,9 +2,8 @@
 
 //-------------------------------------------------------------------------------------------------------------------------//
  
- from pathlib import Path
+ 
 
-markdown_content = """
 # 🚀 Deploy NGINX Web App on Kubernetes with Minikube (Ubuntu + Docker + WSL2)
 
 A step-by-step guide to help you deploy an NGINX-based Docker application to a local Kubernetes cluster using **Minikube** and **kubectl**.
