@@ -4,7 +4,7 @@
  
  
 
-# 🚀 Deploy NGINX Web App on Kubernetes with Minikube (Ubuntu + Docker + WSL2)
+# 🚀 Deploy NGINX Web App on Kubernetes with Minikube
 
 A step-by-step guide to help you deploy an NGINX-based Docker application to a local Kubernetes cluster using **Minikube** and **kubectl**.
 
