@@ -170,7 +170,3 @@ Your README will now display:
 - Mermaid diagram (or ASCII fallback)  
 
 ---
-
-If you want, I can **give you a single ready-to-copy file** for GitHub so you don’t have to paste section by section.  
-
-Do you want me to do that?
